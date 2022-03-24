@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/activity_main_menu_capture"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/capture"
+        />
+    <item
+        android:id="@+id/activity_main_menu_more"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/more_vert"
+        >
+
+    </item>
+</menu>
