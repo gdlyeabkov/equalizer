@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/flutter_projects/equalizer/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/flutter_projects/equalizer/app/src/main/res/drawable/drager.xml" value="0.14635416666666667" />
+        <entry key="..\:/flutter_projects/equalizer/app/src/main/res/drawable/progress.xml" value="0.14635416666666667" />
+        <entry key="..\:/flutter_projects/equalizer/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/flutter_projects/equalizer/app/src/main/res/layout/activity_main_drawer.xml" value="0.24351851851851852" />
         <entry key="..\:/flutter_projects/equalizer/app/src/main/res/menu/activity_main_menu.xml" value="0.24351851851851852" />
       </map>

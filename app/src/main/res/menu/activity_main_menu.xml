@@ -8,12 +8,14 @@
         app:showAsAction="always"
         android:title=""
         android:icon="@drawable/capture"
+        android:iconTint="@color/white"
         />
     <item
         android:id="@+id/activity_main_menu_more"
         app:showAsAction="always"
         android:title=""
         android:icon="@drawable/more_vert"
+        android:iconTint="@color/white"
         >
 
     </item>

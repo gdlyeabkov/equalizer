@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
         LinearLayout.LayoutParams burgerLayoutParams = new LinearLayout.LayoutParams(50, 50);
         burger.setLayoutParams(burgerLayoutParams);
         burger.setImageResource(R.drawable.burger);
+        burger.setColorFilter(R.color.white);
         burger.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
